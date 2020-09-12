@@ -1,6 +1,6 @@
 def square_array(numbers)
 num = [] #create a place to store numbers
-numbers.each {|x| num << x ** 2}
+numbers.each {|x| num << x ** 2} #use curly brackets to make it look nicer and less work
 #call on numbers array with each. Have it take each element and exponetial it by 2.
 #Shovel each elment into the empty array
 num
