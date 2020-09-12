@@ -3,3 +3,4 @@ num = []
 numbers.each do |x| num << x ** 2
 num
 end
+end
